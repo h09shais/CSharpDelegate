@@ -1,0 +1,6 @@
+C:\Users\sis\Desktop\New folder SNI\Closures\Closures\bin\Debug\Closures.exe.config
+C:\Users\sis\Desktop\New folder SNI\Closures\Closures\bin\Debug\Closures.exe
+C:\Users\sis\Desktop\New folder SNI\Closures\Closures\bin\Debug\Closures.pdb
+C:\Users\sis\Desktop\New folder SNI\Closures\Closures\obj\Debug\Closures.csprojResolveAssemblyReference.cache
+C:\Users\sis\Desktop\New folder SNI\Closures\Closures\obj\Debug\Closures.exe
+C:\Users\sis\Desktop\New folder SNI\Closures\Closures\obj\Debug\Closures.pdb
